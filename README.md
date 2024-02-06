@@ -8,7 +8,7 @@
 
 - `mode` `keymap` Function
 
--`i` `jk` Exit Insert Mode
+- `i` `jk` Exit Insert Mode
 - `n` `<space>nh` Clear Search
 - `n` `x` Delete char without copying
 
