@@ -22,9 +22,9 @@ mason_lspconfig.setup({
     "omnisharp",                  --| C#
     "cmake",                      --| CMake 
     "marksman",                   --| Markdown
-    -- "html",                    --| HTML       ##                     ##
-    -- "cssls",                   --| CSS        ##  THESE DO NOT WORK  ##
-    -- "vtsls",                   --| JavaScript ## FOR WHATEVER REASON ##
+    "html",                       --| HTML       ##                     ##
+    "cssls",                      --| CSS        ##  THESE DO NOT WORK  ##
+    "vtsls",                      --| JavaScript ## FOR WHATEVER REASON ##
   }
 })
 
