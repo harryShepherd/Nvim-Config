@@ -6,7 +6,7 @@
 
 # Keymaps
 
-- `mode` `keymap` Function
+### Misc.
 
 - `i` `jk` Exit Insert Mode
 - `n` `<space>nh` Clear Search
